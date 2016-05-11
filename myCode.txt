@@ -1,2 +1,2 @@
-Public with sharing MyClass{
+Public with out sharing MyClass{
 }
