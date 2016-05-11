@@ -1,2 +1,2 @@
-Public with sharing MyClass{
+global class MyClass{
 }
